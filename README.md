@@ -1,4 +1,4 @@
-# Edge Impulse Linux SDK for Python
+# AEROKLE SAE AERODESIGN TEAM
 
 This repository belong to aeroKLE.
 This is a computer vision project which is being designed for AEROTHON 2022 competition
