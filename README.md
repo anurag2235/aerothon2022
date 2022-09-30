@@ -1,4 +1,4 @@
-# AEROKLE SAE AERODESIGN TEAM
+# AEROKLE SAE AERODESIGN TEAM/COMPUTER VISION AI
 
 This repository belong to aeroKLE.
 This is a computer vision project which is being designed for AEROTHON 2022 competition
